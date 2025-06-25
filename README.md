@@ -1,6 +1,6 @@
 👋 Hi there, I'm Fatimah Olubusola Adeniyi, a DevOps/Cloud Engineer.
 
-🌱 I'm a Cloud Engineer with experience in building reliabe, scalable and secure infrastructure using AWS and modern DevOps practices. I use Infrastructure as code (IaC) - Terraform, Configuration as Code - Ansible, CICD - Jenkins, Version Control - Git, Docker and AWS Kubenetes among other DevOps practices. I am comfortable analyzing existing infrastructure and proferring solution based on business preference.
+🌱 I'm a Cloud Engineer with experience in building reliabe, scalable and secure infrastructure using AWS and modern DevOps practices. I use Infrastructure as code (IaC) - Terraform, Configuration as Code - Ansible, CICD - Jenkins, Version Control - Git, Docker, Kubenetes, AWS among other DevOps practices. I am comfortable analyzing existing infrastructure and proferring solution based on business preference.
 
 - 🔭 I’m currently working at Codetrik, I focus on designing and managing AWS infrastructure with automation while keeping applications running and drastically reducing downtime.
 - I worked on the following recently:
